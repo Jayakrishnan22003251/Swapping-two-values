@@ -27,8 +27,8 @@ End the program
       input2=input1
       input1=temp
       print("Swapped values are:",input1,input2)
-
-
+## OUTPUT:
+![WhatsApp Image 2022-12-21 at 13 21 51](https://user-images.githubusercontent.com/120232371/210314838-a29ca4d4-58f6-4a5b-b26f-356b2d447130.jpg)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
